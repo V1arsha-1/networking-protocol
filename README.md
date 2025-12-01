@@ -10,6 +10,7 @@ Hello, this is a test.
 .
 QUIT
 
+
 Metadata (headers, time sent, content)
 
 How email travels across the internet
